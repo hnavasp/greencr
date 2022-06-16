@@ -83,6 +83,7 @@ footer{
     float: right;
     justify-content: center;
     padding-top: 20px;
+    margin-bottom: 15px;
 }
 footer a{
     text-decoration: none;
